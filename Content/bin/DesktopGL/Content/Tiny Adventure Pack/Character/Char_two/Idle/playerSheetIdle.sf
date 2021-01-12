@@ -1,0 +1,21 @@
+{
+  "textureAtlas": {
+    "texture": "playerSheetIdle.png",
+    "regionWidth": 16,
+    "regionHeight": 16
+  },
+  "cycles": {
+    "idleDown": {
+      "frames": [0,1,2,3,4,5]
+    },
+    "idleLeft": {
+      "frames": [6,7,8,9,10,11]
+    },
+    "idleRight": {
+      "frames": [12,13,14,15,16,17]
+    },
+    "idleUp": {
+      "frames": [18,19,20,21,22,23]
+    }
+  }
+}

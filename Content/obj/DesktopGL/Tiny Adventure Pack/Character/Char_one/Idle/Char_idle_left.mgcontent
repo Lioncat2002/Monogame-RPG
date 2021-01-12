@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Idle/Char_idle_left.png</SourceFile>
+  <SourceTime>2021-01-03T12:00:08.4845733+05:30</SourceTime>
+  <DestFile>D:/Monogame/RPG_1/Monogame-RPG/Content/bin/DesktopGL/Tiny Adventure Pack/Character/Char_one/Idle/Char_idle_left.xnb</DestFile>
+  <DestTime>2021-01-10T15:18:47.6192203+05:30</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+05:30</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+05:30</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

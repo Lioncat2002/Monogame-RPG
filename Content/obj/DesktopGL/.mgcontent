@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/env.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Attack/Char_atk_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Attack/Char_atk_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Attack/Char_atk_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Attack/Char_atk_up.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Char_4_sides.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Idle/Char_idle_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Idle/Char_idle_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Idle/Char_idle_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Idle/Char_idle_up.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Walk/Char_walk_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Walk/Char_walk_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Walk/Char_walk_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_one/Walk/Char_walk_up.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Attack/1.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Attack/2.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Attack/3.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Attack/4.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Char2_4sides.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Idle/Char2_idle_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Idle/Char2_idle_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Idle/Char2_idle_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Idle/Char2_idle_up.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Idle/playerSheetIdle.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Walk/Char2_walk_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Walk/Char2_walk_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Walk/Char2_walk_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Walk/Char2_walk_up.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Character/Char_two/Walk/playerSheetWalk.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Blue_orb.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Coin.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Green_orb.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Heart.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Bush.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Chest.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Grass.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Rock.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Sign.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Tree/Tree.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Tree/Tree_top.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Misc/Tree/Tree_trunk.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Other/Red_orb.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Idle/Skel_idle_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Idle/Skel_idle_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Idle/Skel_idle_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Idle/Skel_idle_up.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Skel_4Sides.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Walk/Skel_walk_down.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Walk/Skel_walk_left.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Walk/Skel_walk_right.png</File>
+    <File>D:/Monogame/RPG_1/Monogame-RPG/Content/Tiny Adventure Pack/Skeleton/Walk/Skel_walk_up.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
